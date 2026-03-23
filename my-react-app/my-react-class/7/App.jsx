@@ -3,7 +3,7 @@
 //               a callback to the onClick event handler.
 
 import ProfilePicture from './ProfilePicture.jsx';
-import Button from './assets/Button.jsx';
+import Button from './assets/Button.js';
 function App() {
     return( <>
                 <ProfilePicture />
