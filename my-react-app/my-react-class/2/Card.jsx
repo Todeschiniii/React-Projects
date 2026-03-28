@@ -6,8 +6,7 @@ function Card(){
       <img src={profilePic} alt="profile picture"></img>
       <h2>Bro Code</h2>
       <p>I make Youtube videos and play video games</p>
-    </div>
-  );
+    </div>  );
 }
 
 export default Card
