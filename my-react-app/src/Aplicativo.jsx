@@ -6,7 +6,11 @@
 //              AND a setter function to update its value in the Virtual DOM.
 //              [name, setName]
 
+import MyComponent from "./MyComponent"
+
 function App() {
-    
+    <div>
+        <MyComponent />
+    </div>
 }
 export default App
